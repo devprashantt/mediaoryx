@@ -1,6 +1,6 @@
 ## PortFolio Website
 
-https://devprashantt.github.io/MediaOryx/
+https://devprashantt.github.io/mediaoryx/
 
 Hi 👋 My name is Prashant Kumar Singh
 =====================================
